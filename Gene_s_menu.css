@@ -1,0 +1,524 @@
+.mediaViewInfo {
+	--web-view-name: genes menu;
+	--web-view-id: genes_menu;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: genes_menu;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#genes_menu {
+	position: absolute;
+	width: 1920px;
+	height: 2200px;
+	background-color: rgba(90,31,68,1);
+	overflow: hidden;
+	--web-view-name: genes menu;
+	--web-view-id: genes_menu;
+	--web-enable-deep-linking: true;
+}
+#Rectangle_9 {
+	fill: rgba(138,56,107,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 512px;
+	height: 296px;
+	left: 1352px;
+	top: 592px;
+}
+#Rectangle_8 {
+	fill: rgba(138,56,107,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_8 {
+	position: absolute;
+	overflow: visible;
+	width: 512px;
+	height: 296px;
+	left: 716px;
+	top: 592px;
+}
+#Rectangle_7 {
+	fill: rgba(138,56,107,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_7 {
+	position: absolute;
+	overflow: visible;
+	width: 512px;
+	height: 296px;
+	left: 80px;
+	top: 589px;
+}
+#Rectangle_10 {
+	fill: rgba(138,56,107,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_10 {
+	position: absolute;
+	overflow: visible;
+	width: 512px;
+	height: 296px;
+	left: 80px;
+	top: 1145px;
+}
+#Rectangle_11 {
+	fill: rgba(138,56,107,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_11 {
+	position: absolute;
+	overflow: visible;
+	width: 512px;
+	height: 296px;
+	left: 716px;
+	top: 1145px;
+}
+#Rectangle_12 {
+	fill: rgba(138,56,107,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_12 {
+	position: absolute;
+	overflow: visible;
+	width: 512px;
+	height: 296px;
+	left: 1352px;
+	top: 1157px;
+}
+#Rectangle_1 {
+	fill: rgba(1,78,44,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 203px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_6 {
+	fill: rgba(1,78,44,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_6 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 203px;
+	left: 0px;
+	top: 1997px;
+}
+#Genes-Dairy-Delight {
+	left: 735px;
+	top: 243px;
+	position: absolute;
+	overflow: visible;
+	width: 451px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+#Menu {
+	left: 896px;
+	top: 347px;
+	position: absolute;
+	overflow: visible;
+	width: 129px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+#Genes_Delights {
+	left: 80px;
+	top: 474px;
+	position: absolute;
+	overflow: visible;
+	width: 332px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+#Ice_Cream {
+	left: 851px;
+	top: 474px;
+	position: absolute;
+	overflow: visible;
+	width: 220px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+#Food__Drinks {
+	left: 1510px;
+	top: 474px;
+	position: absolute;
+	overflow: visible;
+	width: 320px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+#n_1800009tif {
+	position: absolute;
+	width: 300px;
+	height: 295.527px;
+	left: 80px;
+	top: 589px;
+	overflow: visible;
+}
+#n_1800014tif {
+	position: absolute;
+	width: 300px;
+	height: 295.527px;
+	left: 80px;
+	top: 1145px;
+	overflow: visible;
+}
+#n_1780011tif {
+	position: absolute;
+	width: 300px;
+	height: 295.527px;
+	left: 716px;
+	top: 1145px;
+	overflow: visible;
+}
+#n_1780020tif {
+	position: absolute;
+	width: 300px;
+	height: 295.527px;
+	left: 1352px;
+	top: 592.473px;
+	overflow: visible;
+}
+#n_1780013tif {
+	position: absolute;
+	width: 300px;
+	height: 295.527px;
+	left: 716px;
+	top: 592.25px;
+	overflow: visible;
+}
+#n_1800011tif {
+	position: absolute;
+	width: 300px;
+	height: 295.527px;
+	left: 1352px;
+	top: 1157px;
+	overflow: visible;
+}
+#Banana_Split {
+	left: 399px;
+	top: 607px;
+	position: absolute;
+	overflow: visible;
+	width: 165px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Brownie_Delight {
+	left: 428px;
+	top: 1157px;
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Waffle_Bowl {
+	left: 1039px;
+	top: 1170px;
+	position: absolute;
+	overflow: visible;
+	width: 157px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Pecan_Turtle_Parfait {
+	left: 1672px;
+	top: 1177px;
+	position: absolute;
+	overflow: visible;
+	width: 163px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Avalanche {
+	left: 1050px;
+	top: 616px;
+	position: absolute;
+	overflow: visible;
+	width: 135px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Parfait {
+	left: 1711px;
+	top: 616px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Price_Sm_495_Med_535_Lg_589 {
+	left: 1044px;
+	top: 694px;
+	position: absolute;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Price_589 {
+	left: 411px;
+	top: 814px;
+	position: absolute;
+	overflow: visible;
+	width: 151px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Price_589_bb {
+	left: 411px;
+	top: 1358px;
+	position: absolute;
+	overflow: visible;
+	width: 151px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Price_589_bc {
+	left: 1047px;
+	top: 1358px;
+	position: absolute;
+	overflow: visible;
+	width: 151px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Price_589_bd {
+	left: 1683px;
+	top: 1358px;
+	position: absolute;
+	overflow: visible;
+	width: 151px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Price_589_be {
+	left: 1680px;
+	top: 814px;
+	position: absolute;
+	overflow: visible;
+	width: 151px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Genes {
+	position: absolute;
+	width: 180px;
+	height: 180.5px;
+	left: 41px;
+	top: 11.25px;
+	overflow: visible;
+}
+#Home {
+	left: 462px;
+	top: 78px;
+	position: absolute;
+	overflow: visible;
+	width: 135px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+#Menu_bh {
+	left: 896px;
+	top: 78px;
+	position: absolute;
+	overflow: visible;
+	width: 129px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+#About_Us {
+	left: 1324px;
+	top: 78px;
+	position: absolute;
+	overflow: visible;
+	width: 206px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+#Address_1019_S_Main_St__Bloomi {
+	left: 130px;
+	top: 2032px;
+	position: absolute;
+	overflow: visible;
+	width: 555px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+#Phone_309-829-6022 {
+	left: 1450px;
+	top: 2032px;
+	position: absolute;
+	overflow: visible;
+	width: 341px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
