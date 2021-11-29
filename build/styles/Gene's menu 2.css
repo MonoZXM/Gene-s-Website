@@ -12,16 +12,50 @@
   box-sizing: border-box;
   border: none;
 }
-#menu2 {
-  position: absolute;
-  width: 1920px;
-  height: 4652px;
-  background-color: rgba(90,31,68,1);
-  overflow: hidden;
-  --web-view-name: menu2;
-  --web-view-id: menu2;
-  --web-enable-deep-linking: true;
+
+#menu_2{
+  background-color: #5a1f44;
+  background-size: 100%;
+  max-width: auto;
+  min-height: 4500px;
 }
+
+body {
+  background: rgba(90,31,68,1);
+}
+
+.navbar{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background: #014e2c;
+}
+.logo{
+  padding-left: 10px;
+  width: 100px;
+  cursor: pointer;
+  margin: 30px 0;
+}
+
+nav{
+  /* background: #014e2c; */
+  flex: 1;
+  text-align: right;
+}
+nav ul li{
+  list-style: none;
+  display: inline-block;
+  margin-right: 30px;
+}
+nav ul li a{
+  text-decoration: none;
+  color: #000;
+  font-size: 14px;
+}
+nav ul li a:hover{
+  color: #ff5ea2;
+}
+
 #Rectangle_28 {
   fill: rgba(138,56,107,1);
   stroke: rgba(112,112,112,1);
@@ -1088,73 +1122,57 @@
   top: 11.25px;
   overflow: visible;
 }
-#Home {
-  left: 462px;
-  top: 78px;
-  position: absolute;
-  overflow: visible;
-  width: 135px;
-  white-space: nowrap;
-  text-align: left;
+
+.Genes-Dairy-Delight{
+  padding-top: 40px;
+  text-align: center;
   font-family: Segoe UI;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 50px;
-  color: rgba(255,255,255,1);
+  font-size: 30px;
+  color: #FFFFFF
 }
-#Menu_ct {
-  left: 896px;
-  top: 78px;
-  position: absolute;
-  overflow: visible;
-  width: 129px;
-  white-space: nowrap;
-  text-align: left;
-  font-family: Segoe UI;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 50px;
-  color: rgba(255,255,255,1);
+
+nav2{
+  /* background: #014e2c; */
+  flex: 1;
+  text-align: center;
 }
-#About_Us {
-  left: 1324px;
-  top: 78px;
-  position: absolute;
-  overflow: visible;
-  width: 206px;
-  white-space: nowrap;
-  text-align: left;
-  font-family: Segoe UI;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 50px;
-  color: rgba(255,255,255,1);
+nav2 ul li{
+  list-style: none;
+  display: inline-block;
+  margin-right: 100px;
+  padding-left: 100px;
+  padding-top: 50px;
 }
-#Address_1019_S_Main_St__Bloomi {
-  left: 130px;
-  top: 4484px;
-  position: absolute;
-  overflow: visible;
-  width: 555px;
-  white-space: nowrap;
-  text-align: left;
-  font-family: Segoe UI;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 50px;
-  color: rgba(255,255,255,1);
+nav2 ul li a{
+  text-decoration: none;
+  color: #000;
+  font-size: 17px;
 }
-#Phone_309-829-6022 {
-  left: 1450px;
-  top: 4484px;
+nav2 ul li a:hover{
+  color: #ff5ea2;
+}
+
+.footer{
+  width: 100%;
+  height: 100px;
+  display: flex;
+  background: #014e2c;
   position: absolute;
-  overflow: visible;
-  width: 341px;
-  white-space: nowrap;
-  text-align: left;
-  font-family: Segoe UI;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 50px;
-  color: rgba(255,255,255,1);
+  align: bottom;
+}
+.address{
+  padding-top: 30px;
+  padding-left: 10px;
+  float: left;
+  white-space: pre-wrap;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.phone{
+  padding-top: 30px;
+  padding-right: 10px;
+  float: right;
+  white-space: pre-wrap;
+  font-size: 20px;
+  color: #FFFFFF;
 }
